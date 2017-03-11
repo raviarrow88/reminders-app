@@ -1,0 +1,5 @@
+# reminders-app
+venv/
+.idea
+*.pyc
+.json
