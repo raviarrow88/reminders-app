@@ -1,0 +1,140 @@
+body{
+font-family:"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif !important;
+}
+
+.navbar-inverse {
+    background-color: #10242b;
+    border-color: #10242b;
+}
+
+.navbar {
+    border-radius: 0 !Important;
+        margin-bottom: 0;
+}
+h1,h2, h3{
+    font-weight:100;
+    line-height:1.5em;
+}
+.home-hero{
+background: -webkit-radial-gradient(top center, ellipse cover, rgba(255, 255, 255, 0.72) 0%,rgba(231, 235, 239, 0.66) 100%), url(/static/images/hero-image.jpg) repeat;
+/*background: -webkit-radial-gradient(top center, ellipse cover, rgba(82, 108, 239, 0.82) 0%,rgba(0, 5, 33, 0.82) 100%), url(/static/images/hero-image.jpg) repeat;*/
+}
+
+.hero{
+padding-bottom:40px;
+}
+.hero h1{
+     font-size: 46px;
+    font-weight: 300;
+    margin-top: 140px;
+    line-height: 1em;
+}
+.hero h1 span{
+
+font-size: 24px;
+    display: block;
+    line-height: 1.5em;
+    font-weight: bold;
+}
+.courses-list h5{
+    color: #777;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom:10px;
+}
+.courses-list h5.light{
+    font-weight: normal !important;
+    margin-top:5px;
+    margin-bottom:20px;
+
+}
+.courses-list .more {
+    font-weight:bold;
+    color: #555;
+}
+.license{
+max-height:25px;
+}
+.btn{
+border-radius:0;}
+
+.search-help-text{
+font-size: 10px;
+}
+
+.navbar-brand {
+    text-align: left;
+font-size: 12px;
+    padding-top: 10px;
+    line-height: 1.2em;
+    color: #e0e0e0 !Important;
+    }
+.navbar-brand span{
+    font-size: 18px;
+    display: block;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: #e0e0e0 !important;
+}
+
+.next-btn, .prev-btn{
+    border:1px solid #cfcfcf;
+    padding:10px;
+    float: left;
+    width: 100%;
+    max-height: 75px;
+        text-overflow: ellipsis;
+
+}
+.next-btn h4, .prev-btn h4 {
+    margin-bottom: 0;
+    font-size: 18px;
+    font-weight: bold;
+    color: #777;
+
+}
+.next-btn p, .prev-btn  p{
+    font-size: 12px;
+    color: #777;
+
+
+}
+
+
+
+.form-control{
+    border-radius: 0 !important;
+    box-shadow: none !important;
+}
+
+.help-block{
+    font-size:10px;
+}
+
+.select2-container--default .select2-selection--multiple{
+border-radius:0 !important;
+    border: 1px solid #ccc !important;
+        padding: 1px 5px !important;
+}
+
+
+.course-image-div{
+   background-repeat: no-repeat;
+ background-position-y: -24px;
+    background-size: cover;
+    border: 2px solid #dadada;
+    height: 170px;
+}
+
+.course-image-div-small{
+height: 122px;
+}
+.ul-black{
+    margin-top:20px;
+}
+.ul-black li a{
+    color: #555;
+    text-transform: uppercase;
+    font-size:12px;
+}
